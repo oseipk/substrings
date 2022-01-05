@@ -9,3 +9,4 @@ def substring(string, dictionary)
     end
     return result
 end
+#puts substring("horn", dictionary)
